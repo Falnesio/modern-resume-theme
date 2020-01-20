@@ -4,15 +4,15 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Falnésio Ghander Soares Borges
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+title: Economics Graduate
+email: falnesio.ghander@economia.ufjf.br
+phone: +55 (33) 9 2000-5046
+website: http://bit.do/falnesio 
 
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
+twitter_username: none
 github_username:  jekyll
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
