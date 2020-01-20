@@ -29,7 +29,7 @@ youtube_username: UCqFWMjth3RKOqNHwzOUUxqA
 # Additional icon links
 additional_links:
 - title: Lattes
-  icon: images/index.jpg
+  icon: _test/images/index.jpeg
   url: http://lattes.cnpq.br/8513885038003903
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -43,8 +43,11 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: _test/images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+  
+  Graduado em Ciências Econômicas na Universidade Federal de Juiz de Fora, Campus GV e participa do Núcleo de Agroecologia de Governador Valadares NAGÔ. Tem interesse em sistemas complexos. Acredita que modelos que incorporam as sutilezas da heterogeneidade social são úteis na produção de soluções democráticas mais eficazes e eficientes para demandas socioeconômicas e que o estudo econômico tem muito espaço para multidisciplinaridade na formulação de modelos simples mais próximos da realidade. É um pesquisador muito dedicado e focado, é acostumado a entrar em projetos e iniciativas novas, se adaptando aos processos, metodologias e técnicas, aceitando desafios e sempre aprendendo. Trabalha bem em equipe e sempre busca passar o conhecimento que adquiriu para frente.
+
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
