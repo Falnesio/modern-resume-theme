@@ -1,10 +1,10 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: Falnesio/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Falnésio Ghander Soares Borges
-title: Economics Graduate
+title: Graduado em Ciências Econômicas
 email: falnesio.ghander@economia.ufjf.br
 phone: +55 (33) 9 2000-5046
 website: http://bit.do/falnesio 
@@ -22,14 +22,14 @@ github_username:  falnesio
 linkedin_username: falnésio-g-s-borges-43b615149
 #xing_username: jekyll
 #pinterest_username: jekyll
-youtube_username: UCqFWMjth3RKOqNHwzOUUxqA
+youtube_username: /channel/UCqFWMjth3RKOqNHwzOUUxqA
 #googleplus_username: +jekyll
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: Lattes
-  icon: img/index.jpeg
+  icon: /fontawesome/fontawesome-webfont-lattes/lattes-new.svg
   url: http://lattes.cnpq.br/8513885038003903
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)

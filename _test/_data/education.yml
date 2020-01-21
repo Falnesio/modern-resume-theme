@@ -1,10 +1,11 @@
-- name: Institution 1
-  dates: 2016 - 2019
-  qualification: Degree
+- name: Universidade Federald e Juiz de Fora - Campus Governador Valadares
+  dates: 2016 - 2020
+  qualification: Bacharelado em Ciências Econômicas
   quote: >
-    Short institution or course description
+    Enfatiza a formação de profissionais capazes de utilizar as categorias do pensamento econômico e os instrumentos da política econômica em prol da sociedade.
   description: >
-    Description of qualification
+    O egresso do curso é capaz de desenvolver atividades de planejamento, projeção, programação e análises econômico-financeiras de investimentos de qualquer natureza; estudos, análises e pareceres pertinentes a questões econômicas; perícias, avaliações e arbitramentos; ensino de estatística, economia e finanças em cursos técnicos e superiores; consultoria e assessoria econômica de empresas e desenvolvimento e análises de projetos, bem como formulação e análise de políticas econômicas.
+
 
 - layout: left
   name: Institution 2
