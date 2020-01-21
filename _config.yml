@@ -29,7 +29,7 @@ youtube_username: /channel/UCqFWMjth3RKOqNHwzOUUxqA
 # Additional icon links
 additional_links:
 - title: Lattes
-  icon: http://i.imgur.com/2iVxee6.png
+  icon: fa-lattes
   url: http://lattes.cnpq.br/8513885038003903
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
