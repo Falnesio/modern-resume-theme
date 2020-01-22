@@ -1,8 +1,10 @@
+# Certificates Template
+
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Project 1
+  link: https://sproogen.github.io/modern-resume-theme
+  github: sproogen/modern-resume-theme
   quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
+    Short overview of the project
+  description: >
     Description about the work on/with the project
