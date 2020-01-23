@@ -1,6 +1,6 @@
 # Certificates Template
 
-- layout: top-middle
+- layout: left
   name: Project 1
   link: https://sproogen.github.io/modern-resume-theme
   github: sproogen/modern-resume-theme
