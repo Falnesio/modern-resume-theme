@@ -3,7 +3,7 @@ repository: Falnesio/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Falnésio test Ghander Soares Borges
+name: Falnésio Ghander Soares Borges
 title: Graduado em Ciências Econômicas
 email: falnesio.ghander@economia.ufjf.br
 phone: +55 (33) 9 2000-5046
@@ -46,11 +46,7 @@ additional_links:
 about_profile_image: img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   
-  Graduado em Ciências Econômicas na Universidade Federal de Juiz de Fora, Campus GV e participa do Núcleo de Agroecologia de Governador Valadares NAGÔ. Tem interesse em sistemas complexos. Acredita que modelos que incorporam as sutilezas da heterogeneidade social são úteis na produção de soluções democráticas mais eficazes e eficientes para demandas socioeconômicas e que o estudo econômico tem muito espaço para multidisciplinaridade na formulação de modelos simples mais próximos da realidade. É um pesquisador muito dedicado e focado, é acostumado a entrar em projetos e iniciativas novas, se adaptando aos processos, metodologias e técnicas, aceitando desafios e sempre aprendendo. Trabalha bem em equipe e sempre busca passar o conhecimento que adquiriu para frente.
-
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  
-  sfsfsf
+  Graduado em Ciências Econômicas na Universidade Federal de Juiz de Fora, Campus GV <mark>UFJF - GV</mark> e participa do Núcleo de Agroecologia de Governador Valadares <mark>NAGÔ</mark>. Tem interesse em sistemas complexos. Acredita que modelos que incorporam as sutilezas da heterogeneidade social são úteis na produção de soluções democráticas mais eficazes e eficientes para demandas socioeconômicas e que o estudo econômico tem muito espaço para multidisciplinaridade na formulação de modelos simples mais próximos da realidade. É um pesquisador muito dedicado e focado, é acostumado a entrar em projetos e iniciativas novas, se adaptando aos processos, metodologias e técnicas, aceitando desafios e sempre aprendendo. Trabalha bem em equipe e sempre busca passar o conhecimento que adquiriu para frente.
   
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -64,10 +60,44 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+  **Linguagem**
+    <ul>
+       <li>Tradução simultânea EN-PT</li>
+       <li>Tradução de texto científico EN-PT</li>
+    </ul>  
+  **Programação**
+    <ul>
+       <li>R</li>
+       <li>Python</li>
+       <li>SQL</li>
+    </ul>
+  **Tecnologias**
+    <ul>
+      <li>QGIS</li>
+      <li>MySQL</li>
+      <li>Microsoft SQL Server</li>
+      <li>Microsoft PowerPoint</li>
+      <li>Microsoft Excel</li>
+      <li>Microsoft Windows</li>
+      <li>Microsoft Word</li>
+      <li>Microsoft Office</li>
+      <li>Ubuntu</li>
+      <li>LaTex</li>
+    </ul>
+  **Habilidades Interpessoais**
+    <ul>
+      <li>Fazer apresentações</li>
+      <li>Lecionar</li>
+      <li>Escutar</li>
+    </ul>
+  **Qualidades Pessoais**
+    <ul>
+      <li>Autodidata</li>
+      <li>Foco</li>
+      <li>Paciência</li>
+      <li>Dedicação</li>
+    </ul>    
+    
 # Footer
 footer_show_references: true
 

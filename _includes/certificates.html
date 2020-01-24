@@ -1,5 +1,5 @@
 <div class="container certificates-container">
-  <h3>{{ site.certificates_title | default: "Certificates" }}</h3>
+  <h3>{{ site.certificates_title | default: "Certificados" }}</h3>
   {% for certificates in site.data.certificates %}
 {% include {{ certificates.layout | default: 'left' | append: ".html" }} item=certificates %}
 {% endfor %}
