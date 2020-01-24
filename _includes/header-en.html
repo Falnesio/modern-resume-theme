@@ -2,8 +2,8 @@
   <div class="row">
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 header-left">
       <h1>{{ site.name | escape }}</h1>
-      <h2>{{ site.title | escape }}</h2>
-      <b  align="justify" style="font-size:14px"> Currículos nas linguagens de fluência: </b><a style="font-size:14px" href="/"> Português </a> | <a style="font-size:14px" href="/translate.html"> English </a>
+      <h2>{{ site.titleen | escape }}</h2>
+      <b  align="justify" style="font-size:14px"> Résumés in languages of fluency: </b><a style="font-size:14px" href="/"> Português </a> | <a style="font-size:14px" href="/translate.html"> English </a>
       <p></p>
       <p></p>
     </div>
@@ -116,7 +116,7 @@
       {%- endif -%}
       {%- if site.phone -%}
         <p>
-          Celular: {{ site.phone | escape }}
+          Phone: {{ site.phone | escape }}
         </p>
       {%- endif -%}
       {%- if site.website -%}
@@ -124,7 +124,7 @@
           Web: {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
         <p>
-          Residência: MG, Brasil
+          Residencia: Minas Gerais, Brazil
         </p>  
       {%- endif -%}
     </div>
