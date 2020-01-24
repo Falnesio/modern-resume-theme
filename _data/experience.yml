@@ -4,11 +4,30 @@
   company: NAGÔ – Núcleo de Agroecologia de Governador Valadares
   link: 
   job_title: Bolsista
-  dates: out. 2018 - presente
+  dates: 2018 - presente
   quote: >
-    <a href="http://www.ufjf.br/comissaocoletaseletivagv/extensao/" target="_blank">Nagô</a>
+    O principal objetivo do programa <a href="http://www.ufjf.br/comissaocoletaseletivagv/extensao/" target="_blank">Nagô</a> é fortalecer a Agroecologia no Território Médio Rio Doce, por meio do apoio às ações de extensão integradas com a pesquisa e com o ensino em prol do desenvolvimento rural sustentável, e da superação dos problemas socioambientais enfrentados pelos agricultores familiares e povos e comunidades tradicionais da região, visando promover o Bem Viver por meio de trocas de saberes, práticas e tecnologias sociais agroecológicas.
   description: | # this will include new lines to allow paragraphs
-    No Nagô adquiriu experiências
+    Com apoio do Nagô teve a oportunidade de aprender e botar em prática a agroecologia, cartografia, fotografia, comunicação e arte popular e pedagógica, ética e prática antropológica, métodos populares de resolução de problemas, linguas, culturas e espiritualidades tradicionais. Assim como aprender sobre o contexto etnoambiental, político-histórico e socioeconômico dos povos tradicionais. 
+
+- layout: left
+  company: Rede de Prosumidores Agroecológicos do Médio Rio Doce - promovendo geração de renda familiar, autonomia e soberania alimentar
+  job_title: Bolsista
+  dates: 2018 - presente
+  quote: >
+    Este projeto é vinculado ao Programa NAGÔ (Núcleo de Agroecologia da UFJF/Campus Governador Valadares), realizado em parceria com o Centro Agroecológico Tamanduá (CAT), e tem como objetivo implantar, acompanhar e promover tecnologias sociais de base agroecológica junto a comunidades rurais e urbanas no Território Médio Rio Doce. Por meio de metodologias participativas voltadas para a troca de saberes e a construção coletiva do conhecimento, as ações extensionistas do projeto contemplaram as dimensões teórica e prática na organização de cursos, oficinas, mutirões e intercâmbios abrangendo temas relacionados às tecnologias sociais de base agroecológica.
+  description: | # this will include new lines to allow paragraphs
+    As atividades do projeto envolvem a organização operacional, logística e financeira da Rede Tamanduá, uma cadeia agroalimentar curta. Produziu algoritmos R para as análises de dados e documentos que auxiliam no planejamento e gestão.
+
+- layout: left
+  company: Treinamento Profissional em Gestão de Cooperativas e comercialização de produtos agroecológicos
+  job_title: Voluntário
+  dates: out. 2016 - 2017
+  quote: >
+    Cooperativa Regional de Economia Solidaria, da Agricultura Familiar e Agroecologica - <a href="http://areteeducar.blogspot.com/2010/03/cresafa-edital-de-selecao.html">Cresafa</a>. A produção dos produtos elencados, assim como em outros campos da atividade sócio-econômica da produção familiar, notadamente a integração da produção e serviços, sustentada por agroindústria bem como seu beneficiamento, comercialização e consumo, tem como fundamento a AGROECOLOGIA E A ECONOMIA POPULAR SOLIDÁRIA.
+  description: | # this will include new lines to allow paragraphs
+    Trabalhou em questões administrativas.
+
 
 - layout: left
   company: CCAA

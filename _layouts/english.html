@@ -24,15 +24,17 @@
         {%- include experience.html -%}
       {%- endif -%}
       
-      {% comment %}
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
-      {%- endif -%}  
-      {% endcomment %}
-
       {%- if site.data.certificates.size > 0 -%}
         {%- include certificates.html -%}
       {%- endif -%}
+      
+      {%- if site.data.eventos.size > 0 -%}
+        {%- include eventos.html -%}
+      {%- endif -%}  
+      
+      {%- if site.data.projects.size > 0 -%}
+        {%- include projects.html -%}
+      {%- endif -%}  
 
       {%- if site.more_content -%}
         {%- include more.html -%}

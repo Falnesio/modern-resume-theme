@@ -1,9 +1,25 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+  name:  Mapa de Experiências agroecológicas no Território Médio Rio Doce. 2019.
+
+- layout: top-middle
+  name:  Mapa da Riqueza total de produtos agroecológicos por município no Território Médio Rio Doce. 2019.
+
+- layout: top-middle
+  name:  Mapa da  Área média das Unidades Produtivas Familiares Agroecológicas no Território Médio Rio Doce. 2019.
+
+- layout: top-middle
+  name:  Mapa da Média de produtos agroecológicos por UPF por município no Território Médio Rio Doce. 2019.
+
+- layout: top-middle
+  name: "Rede Tamanduá de Prosumidores Agroecológicos: uma Cadeia Agroalimentar Curta em Governador Valadares/MG. In: XI Congresso Brasileiro de Agroecologia, 2019, São Cristóvão/SE. Anais do XI Congresso Brasileiro de Agroecologia, 2019. " 
+
+- layout: top-middle
+  name: "Rede Tamanduá de Prosumidores Agroecológicos: promovendo geração de renda familiar, autonomia e soberania alimentar. In: IV Semana de Ciência, Tecnologia e Sociedade da UFJF/GV, 2019, Governador Valadares/MG. Revista de Ciência, Tecnologia e Sociedade da UFJF/GV, 2019. v. 4. "
+
+- layout: top-middle
+  name: "Pluriversidade dos povos e comunidades tradicionais do Watu: Educação Intercultural e Bem Viver no Vale do Rio Doce. In: IV Semana de Ciência, Tecnologia e Sociedade da UFJF/GV, 2019, Governador Valadares/MG. Revista de Ciência, Tecnologia e Sociedade da UFJF/GV, 2019. v. 4."
+
+- layout: top-middle
+  name: "NAGÔ: Núcleo de Agroecologia de Governador Valadares: semeando a agrobiodiversidade e a transição agroecológica no Território Médio Rio Doce. In: IV Semana de Ciência, Tecnologia e Sociedade da UFJF/GV, 2019, Governador Valadares/MG. Revista de Ciência, Tecnologia e Sociedade da UFJF/GV, 2019. v. 4. "
+  
