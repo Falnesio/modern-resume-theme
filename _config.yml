@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   
 about_content_en: | # this will include new lines to allow paragraphs
   
-  Graduado em Ciências Econômicas na Universidade Federal de Juiz de Fora, Campus GV <mark>UFJF - GV</mark> e participa do Núcleo de Agroecologia de Governador Valadares <mark>NAGÔ</mark>. Tem interesse em sistemas complexos. Acredita que modelos que incorporam as sutilezas da heterogeneidade social são úteis na produção de soluções democráticas mais eficazes e eficientes para demandas socioeconômicas e que o estudo econômico tem muito espaço para multidisciplinaridade na formulação de modelos simples mais próximos da realidade. É um pesquisador muito dedicado e focado, é acostumado a entrar em projetos e iniciativas novas, se adaptando aos processos, metodologias e técnicas, aceitando desafios e sempre aprendendo. Trabalha bem em equipe e sempre busca passar o conhecimento que adquiriu para frente.
+  Graduated in Economic Sciences at the Federal University of Juiz de Fora, Campus GV <mark>UFJF - GV</mark> and participates in the Center of Agroecology of Governador Valadares <mark>NAGÔ</mark>. He is interested in complex systems and believes that models that incorporate the subtleties of social heterogeneity are useful in producing more effective and efficient democratic solutions for socio-economic demands. He also believes that the study of economics has ample room for transdisciplinarity in the formulation of simple, yet more holistic models. He is a very dedicated and focused researcher, who is used to entering new projects and initiatives, adapting to the processes, methodologies, and techniques, accepting challenges and always learning. He works well as a team and always seeks to pass on the knowledge he has acquired.
     
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -105,18 +105,18 @@ more_content: | # this will include new lines to allow paragraphs
     </ul>    
     
 more_content_en: | # this will include new lines to allow paragraphs
-  **Linguagem**
+  **Language**
     <ul>
-       <li>Tradução simultânea EN-PT</li>
-       <li>Tradução de texto científico EN-PT</li>
+       <li>Simultaneous interpretation EN-PT</li>
+       <li>Scientific article translation EN-PT</li>
     </ul>  
-  **Programação**
+  **Programming**
     <ul>
        <li>R</li>
        <li>Python</li>
        <li>SQL</li>
     </ul>
-  **Tecnologias**
+  **Technologies**
     <ul>
       <li>QGIS</li>
       <li>MySQL</li>
@@ -129,18 +129,18 @@ more_content_en: | # this will include new lines to allow paragraphs
       <li>Ubuntu</li>
       <li>LaTex</li>
     </ul>
-  **Habilidades Interpessoais**
+  **Interpersonal Abilities**
     <ul>
-      <li>Fazer apresentações</li>
-      <li>Lecionar</li>
-      <li>Escutar</li>
+      <li>Presentations</li>
+      <li>Teaching</li>
+      <li>Listening</li>
     </ul>
-  **Qualidades Pessoais**
+  **Personal Qualities**
     <ul>
-      <li>Autodidata</li>
-      <li>Foco</li>
-      <li>Paciência</li>
-      <li>Dedicação</li>
+      <li>Autodidact</li>
+      <li>Focused</li>
+      <li>Patient</li>
+      <li>Dedicated</li>
     </ul>    
     
 # Footer
